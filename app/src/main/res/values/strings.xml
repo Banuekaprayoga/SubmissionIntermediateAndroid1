@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Upload</string>
+
+    <!-- HomeFragment -->
+    <string name="list_story">List Story</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="date_format">20-11-2024</string>
+
+    <!-- UpdateFragment -->
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau mencurahkan keluh kesah belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Story Dicoding aja!</string>
+    <string name="title_welcome_page">Selamat datang di Story Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu data akunmu ya</string>
+    <string name="title_login_page">Sudah siap untuk mencurahkan keluh kesahnya?</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+
+    <string name="setting">Settings</string>
+    <string name="logout">Logout</string>
+
+    <!-- Warning String -->
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="empty_email_warning">Mohon Masukkan Email</string>
+    <string name="empty_password_warning">Mohon Masukkan Password</string>
+    <string name="empty_name_warning">Mohon Masukkan Nama</string>
+    <string name="success">Success</string>
+    <string name="something_wrong">Something Wrong :</string>
+    <string name="id_not_found">ID Not Found</string>
+    <string name="no_media_selected">No Media Selected</string>
+    <string name="success_add_image">Success Add Image</string>
+</resources>
